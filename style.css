@@ -1,0 +1,33 @@
+h1 {
+    color: burlywood;
+    background-color: whitesmoke;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 28px;
+    background-color: beige;
+}
+
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 50%;
+        
+      }
+ul {
+    color: brown;
+    background-color: blanchedalmond;
+    font-size: 30px;
+}
+
+ol {
+    background-color: crimson;
+    color: whitesmoke;
+    font-size: 30px;
+}
